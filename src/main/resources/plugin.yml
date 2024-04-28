@@ -1,0 +1,9 @@
+name: Economy
+api: 2.0.0
+version: 0.1
+main: com.khenford.economy.Main
+author: Khenford
+
+permissions:
+  economy.command:
+    default: true
